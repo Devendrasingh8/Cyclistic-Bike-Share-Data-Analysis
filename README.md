@@ -35,7 +35,7 @@ The data is structured data ie., Organised data.
 
 The datasets have a different name because Cyclistic is a fictional company. For the purposes of this case study, the datasets are appropriate.
 
-The data has been made available by Motivate International Inc.
+The data has been made available by Source: [Motivate International Inc](https://divvy-tripdata.s3.amazonaws.com/index.html).
 
 As this data is collected by a real bike sharing company in Chicago, there are no issues with bias or credibility. So its Reliable, Original, Current and Cited (as in ROCCC).
 
